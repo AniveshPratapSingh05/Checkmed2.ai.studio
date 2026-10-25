@@ -1,0 +1,10 @@
+{
+  "name": "Remix CHECKMED",
+  "description": "Hospital Management System with Patient portal, Doctor directory, Appointment booking, Live token queue, Bed availability, Lab reports, and Admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
